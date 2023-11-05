@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap");
+* {
+  font-family: "Inter", sans-serif;
+} 
+
+.container {
+  display: flex;
+}
+
+.conteudo {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.rodape {
+  background-color: #f5f5f5;
+  padding: 10px;
+  text-align: center;
+}
